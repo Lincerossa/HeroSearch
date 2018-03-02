@@ -1,2 +1,0 @@
-# HeroSearch
-Created with CodeSandbox
